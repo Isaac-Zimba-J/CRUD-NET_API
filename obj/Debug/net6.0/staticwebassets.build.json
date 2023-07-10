@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9SWtAWS5fzp+e5fdXInxqj0OsWHX2DHd7DHUxcuHVV4=",
+  "Source": "MyPetAppAPI",
+  "BasePath": "_content/MyPetAppAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
